@@ -1,4 +1,5 @@
-<a href="https://outlast-game.herokuapp.com/">Outlast</a>
+<h1><a href="https://outlast-game.herokuapp.com/">Outlast</a></h1>
+<br>
 <b>Outlast is a multi-player strategic game where the players compete against each other in multiple rounds of an election process.</b>
 
 <br>
