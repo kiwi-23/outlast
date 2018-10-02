@@ -1,1 +1,16 @@
-a
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "outlast",
+  "version": "0.0.1",
+  "author": "soumya-talwar",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "engines": {
+    "node": "10.8.0"
+  }
+}
+
