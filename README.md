@@ -3,10 +3,10 @@
 
 <br>
 
-<h3>Abstract</h3>
+<h1>Abstract</h1>
 Outlast is a non-cooperative tactical game founded on an electoral competition model that requires the players to strategize and make deliberate decisions, along with negotiations and threats towards the other players in order to avoid elimination and earn more money in the continuous election rounds.
 
-<h3>Framework</h3>
+<h2>Framework</h2>
 The framework makes use of the Candidate-Voter Model, an electoral competition model studied in Political Science and Economics to illustrate the situation of multiple Nash Equilibria. The model is a variation of the popular Hotelling-Downs model (Median Voter Theorem). The Hotelling-Downs model assumed that all the candidates could be placed on a linear political spectrum indicating the “party ideology” they embodied, and all the voters would vote for the contender closest to them on the spectrum.
 
 <h3>Structure</h3>
