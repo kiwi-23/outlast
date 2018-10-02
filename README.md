@@ -1,8 +1,10 @@
 # outlast
 Outlast is a multi-player strategic game where the players compete against each other in multiple rounds of an election process.
 
+<h3>Abstract</h3>
 Outlast is a non-cooperative tactical game founded on an electoral competition model that requires the players to strategize and make deliberate decisions, along with negotiations and threats towards the other players in order to avoid elimination and earn more money in the continuous election rounds.
 
+<h3>Structure</h3>
 Players = {1, 2, 3, 4, 5, … n}, where n >= 5
 For each player, there is a pure strategy set Sp, and S1 = S2 = S3 = S4 = … Sn . Each player’s strategy set includes just two options of whether they should run as a candidate for the election or not. 
 Sp = {run, not run}
