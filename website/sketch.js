@@ -1,4 +1,4 @@
-var socket;
+
 var data2;
 
 var player;
