@@ -269,7 +269,6 @@ Spectrum.prototype.payoffs = function() {
       for (var i = 0; i < winners.length; i++) {
         winners[i].money += reward / winners.length;
         for (var j = 0; j < winners[i].voters.length; j++) {
-          // temporarily adding some arbritrary values
           var voter = winners[i].voters[j];
           voter.money += reward / (winners.length * 2);
         }
@@ -277,7 +276,6 @@ Spectrum.prototype.payoffs = function() {
       for (var i = 0; i < losers.length; i++) {
         losers[i].money -= disutility;
         for (var j = 0; j < losers[i].voters.length; j++) {
-          // temporarily adding some arbritrary values
           var voter = losers[i].voters[j];
           voter.money -= disutility / (losers.length * 2);
         }
