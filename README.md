@@ -13,12 +13,17 @@ The Hotelling-Downs model assumed that all the candidates could be placed on a l
 <h2>Structure</h2>
 
 <h4>Players</h4>
-Players = {1, 2, 3, 4, 5, … n}, where n >= 5 <br><br>
+Players = {1, 2, 3, 4, 5, … n}, where n >= 5 
 
-<h5>Strategies</h4>
-For each player, there is a pure strategy set Sp, <br><br>
-and S1 = S2 = S3 = S4 = … Sn . <br><br>
-Each player’s strategy set includes just two options of whether they should run as a candidate for the election or not. <br>
-Sp = {run, not run}
+<br><br>
 
-The framework makes use of the Candidate-Voter Model, an electoral competition model studied in Political Science and Economics to illustrate the situation of multiple Nash Equilibria. The model is a variation of the popular Hotelling-Downs model (Median Voter Theorem). The Hotelling-Downs model assumed that all the candidates could be placed on a linear political spectrum indicating the “party ideology” they embodied, and all the voters would vote for the contender closest to them on the spectrum.
+<h4>Strategies</h4>
+For each player, there is a pure strategy set S<sub>p</sub>, and S<sub>1</sub> = S<sub>2</sub> = S<sub>3</sub> = S<sub>4</sub> = … S<sub>n</sub>.
+<br><br>
+Each player’s strategy set includes just two options of whether they should run as a candidate for the election or not.
+<br><br>
+<br>S<sub>p</sub> = {run, not run}
+
+<br><br>
+
+<h4>Payoffs</h4>
