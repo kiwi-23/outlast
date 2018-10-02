@@ -11,14 +11,14 @@ var cost = 10;
 var reward = 50;
 var disutility = 30;
 
-var players = 0; // total number of clients
-var check = 0; // number of people input their strategies
-var check1 = 0; // number of people vetoed
-var check2 = 0; // number of people logged in
+var players = 0; 
+var check = 0; 
+var check1 = 0; 
+var check2 = 0; 
 
-var count = 0; // number of vetos
+var count = 0; 
 var invalid = false;
-var strikes = 0; // number of invalid games
+var strikes = 0; 
 
 function Spectrum() {
   this.games = 0;
