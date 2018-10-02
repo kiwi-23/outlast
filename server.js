@@ -1,7 +1,3 @@
-// socket.on("mouse", countVotes);
-//socket.broadcast.emit("mouse", data);
-//io.sockets.emit("mouse", data); - ALL
-
 console.log("server is starting! :)");
 var express = require("express");
 var app = express();
