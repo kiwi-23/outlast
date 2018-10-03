@@ -15,30 +15,30 @@ The Hotelling-Downs model assumed that all the candidates could be placed on a l
 
 <h3>Players</h3>
 <p>Players = {1, 2, 3, 4, 5, … n}, where n >= 5</p>
-<br>
 
 <h3>Strategies</h3>
+<p>
 For each player, there is a pure strategy set S<sub>p</sub>, and S<sub>1</sub> = S<sub>2</sub> = S<sub>3</sub> = S<sub>4</sub> = … S<sub>n</sub>.
 <br><br>
 Each player’s strategy set includes just two options of whether they should run as a candidate for the election or not.
 <br><br>
 S<sub>p</sub> = {run, not run}
-<br>
+</p>
 
 <h3>Vote Distribution</h3>
-On a spectrum with 7 players like the one below:
-<br><br>
+<p>On a spectrum with 7 players like the one below:</p>
+<br>
 <table>
 <tr><td>1</td><td>2</td><td style="background-color: #F3F3F3;">3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
 </table>
 <br>
-where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
+<p>where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
 <br><br>
 Therefore, players 1, 2, and 4 would be supporting a winning candidate and and players 5, and 7 would be supporting a losing candidate.
-<br><br>
+</p>
 
 <h4>Payoffs</h4>
-The payoff functions for each player for the four possibilities in the gameplay are as follows: 
+<p>The payoff functions for each player for the four possibilities in the gameplay are as follows: 
 <br><br>
 <ui>
 <li><b>Run (& Win) :</b> + Reward - Cost of Running</li>
@@ -46,4 +46,4 @@ The payoff functions for each player for the four possibilities in the gameplay 
 <li><b>Don't Run (& Support Winning Candidate) :</b> + Reward / No. of positions between player and winning candidate</li>
 <li><b>Don't Run (& Support Losing Candidate) :</b> - Disutility / No. of positions between player and losing candidate</li>
 </ui>
-<br><br>The possible scenarios with these payoff functions would be:
+</p>
