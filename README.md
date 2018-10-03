@@ -37,9 +37,9 @@ S<sub>p</sub> = {run, not run}
 Therefore, players 1, 2, and 4 would be supporting a winning candidate and and players 5, and 7 would be supporting a losing candidate.
 </p>
 
-<h4>Payoffs</h4>
+<h3>Payoffs</h3>
 <p>The payoff functions for each player for the four possibilities in the gameplay are as follows: 
-<br><br>
+<br>
 <ui>
 <li><b>Run (& Win) :</b> + Reward - Cost of Running</li>
 <li><b>Run (& Lose) :</b> - Disutility - Cost of Running</li>
