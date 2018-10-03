@@ -27,11 +27,11 @@ S<sub>p</sub> = {run, not run}
 
 <h3>Vote Distribution</h3>
 <p>On a spectrum with 7 players like the one below:</p>
-<br>
+
 <table>
 <tr><td>1</td><td>2</td><td style="background-color: #F3F3F3;">3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
 </table>
-<br>
+
 <p>where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
 <br><br>
 Therefore, players 1, 2, and 4 would be supporting a winning candidate and and players 5, and 7 would be supporting a losing candidate.
