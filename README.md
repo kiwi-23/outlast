@@ -15,7 +15,7 @@ The Hotelling-Downs model assumed that all the candidates could be placed on a l
 
 <h3>Players</h3>
 <p>Players = {1, 2, 3, 4, 5, … n}, where n >= 5</p>
-<br><br>
+<br>
 
 <h3>Strategies</h3>
 For each player, there is a pure strategy set S<sub>p</sub>, and S<sub>1</sub> = S<sub>2</sub> = S<sub>3</sub> = S<sub>4</sub> = … S<sub>n</sub>.
@@ -23,9 +23,9 @@ For each player, there is a pure strategy set S<sub>p</sub>, and S<sub>1</sub> =
 Each player’s strategy set includes just two options of whether they should run as a candidate for the election or not.
 <br><br>
 S<sub>p</sub> = {run, not run}
-<br><br>
+<br>
 
-<h4>Vote Distribution</h4>
+<h3>Vote Distribution</h3>
 On a spectrum with 7 players like the one below:
 <br><br>
 <table>
@@ -41,9 +41,9 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 The payoff functions for each player for the four possibilities in the gameplay are as follows: 
 <br><br>
 <ui>
-<li>Run (& Win) : Reward - Cost of Running</li>
-<li>Run (& Lose) : -Disutility - Cost of Running</li>
-<li>Don't Run (& Support Winning Candidate) : +Reward / No. of positions between player and winning candidate</li>
-<li>Don't Run (& Support Losing Candidate) : -Disutility / No. of positions between player and losing candidate</li>
- </ui>
+<li><b>Run (& Win) :</b> + Reward - Cost of Running</li>
+<li><b>Run (& Lose) :</b> - Disutility - Cost of Running</li>
+<li><b>Don't Run (& Support Winning Candidate) :</b> + Reward / No. of positions between player and winning candidate</li>
+<li><b>Don't Run (& Support Losing Candidate) :</b> - Disutility / No. of positions between player and losing candidate</li>
+</ui>
 <br><br>The possible scenarios with these payoff functions would be:
