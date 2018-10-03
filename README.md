@@ -2,7 +2,7 @@
 <p><b>Outlast is a multi-player strategic game where the players compete against each other in multiple rounds of an election process.</b></p>
 
 <br>
-<h2>Abstract</h2>
+<h1>Abstract</h1>
 <p>
 Outlast is a non-cooperative tactical game founded on an electoral competition model that requires the players to strategize and make deliberate decisions, along with negotiations and threats towards the other players in order to avoid elimination and earn more money in the continuous election rounds.
 <br><br>
@@ -11,7 +11,7 @@ The framework makes use of the Candidate-Voter Model, an electoral competition m
 The Hotelling-Downs model assumed that all the candidates could be placed on a linear political spectrum indicating the “party ideology” they embodied, and all the voters would vote for the contender closest to them on the spectrum.
 </p>
 
-<h2>Structure</h2>
+<h1>Structure</h1>
 
 <h3>Players</h3>
 <p>Players = {1, 2, 3, 4, 5, … n}, where n >= 5</p>
@@ -47,7 +47,7 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 </ui>
 </p>
 
-<h2>Setup</h2>
+<h1>Setup</h1>
 <p>To play Outlast, you require:</p>
 <ul>
 <li>5 or more players 
@@ -57,4 +57,4 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 </ul>
 <p>Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
 <br><br><br>
-For more details about setup and preparations, read the rulebook & the <a href="https://dl.dropboxusercontent.com/s/jktbto23ttx77qn/Outlast%20-%20Documentation.pdf?dl=0">documentation</a>.</p>
+For more details about setup and preparations, read the rulebook & <a href="https://dl.dropboxusercontent.com/s/jktbto23ttx77qn/Outlast%20-%20Documentation.pdf?dl=0">documentation</a>.</p>
