@@ -48,6 +48,13 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 </p>
 
 <h2>Setup</h2>
-<p>To play Outlast, you require more than 5 players, the physical boardgame, player pieces, and poker chips of the denomination- 1, 5, 10, 20 and 50. Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
+<p>To play Outlast, you require-</p>
+<ul>
+<li>5 or more players 
+<li>the physical boardgame</li>
+<li>player pieces</li> 
+<li>poker chips of the denomination- 1, 5, 10, 20 and 50</li>
+</ul>
+<p>Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
 <br><br>
-For more details about setup and preparations, read the rulebook.
+For more details about setup and preparations, read the rulebook.</p>
