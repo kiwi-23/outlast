@@ -1,8 +1,7 @@
 <h1><a href="https://outlast-game.herokuapp.com/">Outlast</a></h1>
 <p><b>Outlast is a multi-player strategic game where the players compete against each other in multiple rounds of an election process.</b></p>
 
-<br><br>
-
+<br>
 <h2>Abstract</h2>
 <p>
 It is a non-cooperative tactical game founded on an electoral competition model that requires the players to strategize and make deliberate decisions, along with negotiations and threats towards the other players in order to avoid elimination and earn more money in the continuous election rounds.
@@ -15,7 +14,7 @@ The Hotelling-Downs model assumed that all the candidates could be placed on a l
 <h2>Structure</h2>
 
 <h4>Players</h4>
-Players = {1, 2, 3, 4, 5, … n}, where n >= 5 
+<p>Players = {1, 2, 3, 4, 5, … n}, where n >= 5</p>
 
 <br>
 
@@ -43,8 +42,9 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 The payoff functions for each player for the four possibilities in the gameplay are as follows: 
 <br><br>
 <ui>
-<li>Run (& Win) : Reward - Cost of Running<br>
-Run (& Lose) : -Disutility - Cost of Running<br>
-Don't Run (& Support Winning Candidate) : +Reward / No. of positions between player and winning candidate<br>
-Don't Run (& Support Losing Candidate) : -Disutility / No. of positions between player and losing candidate
+<li>Run (& Win) : Reward - Cost of Running</li>
+<li>Run (& Lose) : -Disutility - Cost of Running</li>
+<li>Don't Run (& Support Winning Candidate) : +Reward / No. of positions between player and winning candidate</li>
+<li>Don't Run (& Support Losing Candidate) : -Disutility / No. of positions between player and losing candidate</li>
+ </ui>
 <br><br>The possible scenarios with these payoff functions would be:
