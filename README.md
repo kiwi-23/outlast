@@ -26,12 +26,12 @@ S<sub>p</sub> = {run, not run}
 </p>
 
 <h3>Vote Distribution</h3>
-<p>On a spectrum with 7 players like the one below:</p>
+<p>On a spectrum with 7 players, where each player would vote for the candidate closest to them:</p>
 <br>
 <table>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
 </table>
-<p>where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
+<p>If player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving the three votes of players 1, 2, and 4, while player 6 would only be receiving the 2 votes of players 5 and 7.
 <br><br>
 Therefore, players 1, 2, and 4 would be supporting a winning candidate and and players 5, and 7 would be supporting a losing candidate.
 </p>
@@ -48,13 +48,13 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 </p>
 
 <h2>Setup</h2>
-<p>To play Outlast, you require-</p>
+<p>To play Outlast, you require:</p>
 <ul>
 <li>5 or more players 
-<li>the physical boardgame</li>
+<li>the physical spectrum</li>
 <li>player pieces</li> 
 <li>poker chips of the denomination- 1, 5, 10, 20 and 50</li>
 </ul>
 <p>Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
-<br><br>
+<br><br><br>
 For more details about setup and preparations, read the rulebook.</p>
