@@ -24,7 +24,7 @@ Each player’s strategy set includes just two options of whether they should ru
 <br><br>
 S<sub>p</sub> = {run, not run}
 
-<br>
+<br><br>
 
 <table>
 <tr><td>1</td><td>2</td><td style="background-color: #F3F3F3;">3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
