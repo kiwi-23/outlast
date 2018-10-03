@@ -29,7 +29,7 @@ S<sub>p</sub> = {run, not run}
 <p>On a spectrum with 7 players like the one below:</p>
 <br>
 <table>
-<tr><td>1</td><td>2</td><td style="background-color: #F3F3F3!important;">3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
 </table>
 <p>where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
 <br><br>
@@ -46,3 +46,8 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 <li><b>Don't Run (& Support Losing Candidate) :</b> - Disutility / No. of positions between player and losing candidate</li>
 </ui>
 </p>
+
+<h2>Setup</h2>
+<p>To play Outlast, you require more than 5 players, the physical boardgame, player pieces, and poker chips of the denomination- 1, 5, 10, 20 and 50. Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
+<br><br>
+For more details about setup and preparations, read the rulebook.
