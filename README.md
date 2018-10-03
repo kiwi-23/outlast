@@ -1,7 +1,7 @@
 <h1><a href="https://outlast-game.herokuapp.com/">Outlast</a></h1>
 <b>Outlast is a multi-player strategic game where the players compete against each other in multiple rounds of an election process.</b>
 
-<br>
+<br><br>
 
 <h2>Abstract</h2>
 It is a non-cooperative tactical game founded on an electoral competition model that requires the players to strategize and make deliberate decisions, along with negotiations and threats towards the other players in order to avoid elimination and earn more money in the continuous election rounds.
@@ -26,4 +26,22 @@ S<sub>p</sub> = {run, not run}
 
 <br>
 
+<table>
+<tr><td>1</td><td>2</td><td style="background-color: #F3F3F3;">3</td><td>4</td><td>5</td><td style="background-color: #F3F3F3;">6</td><td>7</td></tr>
+</table>
+
+<br>
+
+where, if player 3 and player 6 were to run as candidates for the election, player 3 would win by receiving three votes, while player 6 would only be receiving 2 votes.
+<br><br>
+Therefore, players 1, 2, and 4 would be supporting a winning candidate and and players 5, and 7 would be supporting a losing candidate.
+<br><br>
+
 <h4>Payoffs</h4>
+The payoff functions for each player for the four possibilities in the gameplay are as follows: 
+<br><br>
+Run (& Win) : Reward - Cost of Running<br>
+Run (& Lose) : -Disutility - Cost of Running<br>
+Don't Run (& Support Winning Candidate) : +Reward / No. of positions between player and winning candidate<br>
+Don't Run (& Support Losing Candidate) : -Disutility / No. of positions between player and losing candidate
+<br><br>The possible scenarios with these payoff functions would be:
