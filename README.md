@@ -53,7 +53,7 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 <li>5 or more players 
 <li>physical spectrum board</li>
 <li>player pieces</li> 
-<li>poker chips of the denomination- 1, 5, 10, 20 and 50</li>
+<li>poker chips of the denomination- 5, 10, 20 and 50</li>
 </ul>
 <p>Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.
 <br><br><br>
