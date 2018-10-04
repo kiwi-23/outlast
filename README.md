@@ -58,6 +58,6 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 <p>Each player will require a phone or any device with the browser window open to <a href="https://outlast-game.herokuapp.com">this page</a>.</p>
 
 <h1>More</h1>
-For more details about setup and preparations, read the <a href="https://dl.dropboxusercontent.com/s/kjukfvq0g776tdu/Outlast%20-%20Rulebook.pdf?dl=0">rulebook</a>
-<br>
-To learn more about the process, read the <a href="https://dl.dropboxusercontent.com/s/jktbto23ttx77qn/Outlast%20-%20Documentation.pdf?dl=0">documentation</a>.
+For more details about setup and preparations: <a href="https://dl.dropboxusercontent.com/s/kjukfvq0g776tdu/Outlast%20-%20Rulebook.pdf?dl=0">Rulebook</a>
+<br><br>
+More insights on the process: <a href="https://dl.dropboxusercontent.com/s/jktbto23ttx77qn/Outlast%20-%20Documentation.pdf?dl=0">Documentation</a>.
