@@ -51,7 +51,7 @@ Therefore, players 1, 2, and 4 would be supporting a winning candidate and and p
 <p>To play Outlast, you require:</p>
 <ul>
 <li>5 or more players 
-<li>physical spectrum board</li>
+<li>physical board</li>
 <li>player pieces</li> 
 <li>poker chips of the denomination- 5, 10, 20 and 50</li>
 </ul>
