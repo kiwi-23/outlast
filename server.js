@@ -16,9 +16,9 @@ var check = 0;
 var check1 = 0; 
 var check2 = 0; 
 
-var count = 0; 
+var count = 0;
 var invalid = false;
-var strikes = 0; 
+var strikes = 0;
 
 function Spectrum() {
   this.games = 0;
@@ -270,14 +270,16 @@ Spectrum.prototype.payoffs = function() {
         winners[i].money += reward / winners.length;
         for (var j = 0; j < winners[i].voters.length; j++) {
           var voter = winners[i].voters[j];
-          voter.money += reward / (winners.length * 2);
+          var dist = Math.abs(winners[i].position - voter.position);
+          voter.money += reward / Math.pow(2, dist);
         }
       }
       for (var i = 0; i < losers.length; i++) {
         losers[i].money -= disutility;
         for (var j = 0; j < losers[i].voters.length; j++) {
           var voter = losers[i].voters[j];
-          voter.money -= disutility / (losers.length * 2);
+          var dist = Math.abs(losers[i].position - voter.position);
+          voter.money -= disutility / Math.pow(2, dist);
         }
       }
     }
